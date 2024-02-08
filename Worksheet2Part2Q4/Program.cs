@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             // some tests
-            // the code to get the three numbers should be 
+            
 
             CalculatePopulationPerDay(2, 20, 5);
             CalculatePopulationPerDay(2, 100, 20);
